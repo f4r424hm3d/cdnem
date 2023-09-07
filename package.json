@@ -1,0 +1,24 @@
+{
+  "name": "cdnem",
+  "version": "1.0.0",
+  "description": "Education Malaysia CDN Css and Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f4r424hm3d/cdnem.git"
+  },
+  "keywords": [
+    "Education",
+    "Malaysia",
+    "CDN"
+  ],
+  "author": "Mohd Faraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f4r424hm3d/cdnem/issues"
+  },
+  "homepage": "https://github.com/f4r424hm3d/cdnem#readme"
+}
